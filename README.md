@@ -8,3 +8,18 @@
     ```
   
     (Source: https://superuser.com/a/232101)
+    
+
+1. Recursively delete all files of a certain extension from a directory
+
+    ```
+    find UPMOST_RELEVANT_PATH -name ".ext" -delete
+    ```
+  
+    (Source: https://superuser.com/a/89415)
+    
+    
+    
+    
+    
+    
